@@ -25,5 +25,10 @@ h2 {
 }
 
 .link {
-  color: aquamarine; 
+  color: aquamarine;
+}
+
+.footer{
+  text-align: right;
+  color: gray;
 }
